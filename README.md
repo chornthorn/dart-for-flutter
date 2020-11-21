@@ -1,4 +1,4 @@
 # Dart for Flutter Course
 
 
-## Please Switch branch to change lesson
+## Please Switch branch to see another lesson
